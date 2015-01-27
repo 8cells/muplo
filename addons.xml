@@ -4,7 +4,7 @@
     <extension point="xbmc.addon.repository" name="Muplo Repository">
         <info compressed="true">https://raw.github.com/8cells/muplo/master/addons.xml</info>
         <checksum>https://raw.github.com/8cells/muplo/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.github.com/8cells/muplo/master/master</datadir>
+        <datadir zip="true">https://raw.github.com/8cells/muplo/master</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Muplo Repository</summary>
