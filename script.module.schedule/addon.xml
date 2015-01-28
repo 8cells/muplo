@@ -10,6 +10,7 @@
         <website>https://github.com/dbader/schedule</website>
         <source>https://github.com/dbader/schedule</source>
         <email>mail@dbader.org</email>
+        <license>MIT</license>
         <platform>all</platform>
     </extension>
 </addon>
