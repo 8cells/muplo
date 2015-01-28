@@ -10,6 +10,7 @@
         <summary>Muplo Repository</summary>
         <description>Muplo Repository</description>
         <website>http://muplo.com</website>
+        <license>MIT</license>
         <platform>all</platform>
     </extension>
 </addon>
@@ -25,6 +26,7 @@
         <website>https://github.com/dbader/schedule</website>
         <source>https://github.com/dbader/schedule</source>
         <email>mail@dbader.org</email>
+        <license>MIT</license>
         <platform>all</platform>
     </extension>
 </addon>
@@ -41,6 +43,7 @@
         <summary>Advertising plugin from muplo.com</summary>
         <description>Advertising plugin from muplo.com</description>
         <website>http://muplo.com</website>
+        <license>MIT</license>
         <platform>all</platform>
     </extension>
 </addon>
@@ -56,6 +59,7 @@
         <summary>Service for Muplo plugin</summary>
         <description>Service for Muplo plugin</description>
         <website>http://muplo.com</website>
+        <license>MIT</license>
         <platform>all</platform>
     </extension>
 </addon>

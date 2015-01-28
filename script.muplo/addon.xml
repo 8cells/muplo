@@ -11,6 +11,7 @@
         <summary>Advertising plugin from muplo.com</summary>
         <description>Advertising plugin from muplo.com</description>
         <website>http://muplo.com</website>
+        <license>MIT</license>
         <platform>all</platform>
     </extension>
 </addon>

@@ -9,6 +9,7 @@
         <summary>Muplo Repository</summary>
         <description>Muplo Repository</description>
         <website>http://muplo.com</website>
+        <license>MIT</license>
         <platform>all</platform>
     </extension>
 </addon>
