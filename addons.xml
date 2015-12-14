@@ -64,7 +64,7 @@
     </extension>
 </addon>
 
-<addon id="skin.confluence_muplo" version="1.0.0" name="Confluence Muplo" provider-name="Jezz_X, Team Kodi">
+<addon id="skin.confluence_muplo" version="1.0.1" name="Confluence Muplo" provider-name="Jezz_X, Team Kodi">
   <requires>
     <import addon="xbmc.gui" version="5.3.0"/>
   </requires>
